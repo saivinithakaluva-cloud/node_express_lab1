@@ -2,8 +2,8 @@
 
 ## 1. Student Details
 
-- **Name:** Amara Sri Vidya
-- **Registration Number:** 252U1R9007
+- **Name:** Kaluva Sai Vinitha
+- **Registration Number:** 252U1R9054
 - **Section:** GEN AI-2A
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
