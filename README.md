@@ -10,13 +10,11 @@
 
 ## 2. Live Link
 
-**Deployment URL:** ## Live Demo
-
-Update this section with the public deployment URL after successfully deploying the server.
+**Deployment URL:** https://node-express-lab1-1hsg.onrender.com
 
 ## 3. GitHub Repository
+**GitHub Link:**  https://github.com/saivinithakaluva-cloud/node_express_lab1.git
 
-**GitHub Link:**  
 ## 4. Objective
 
 To set up a Node.js project, create a basic HTTP server using the built-in `http` module, and build an Express server with multiple routes and appropriate HTTP status codes.
